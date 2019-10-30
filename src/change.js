@@ -17,6 +17,6 @@ if (Number.isNaN(amount)) {
   console.log("Invalid.");
 
 } else {
-  
+  if amount >= 0.25 = QUARTER
     // write your code for making change here
 }
